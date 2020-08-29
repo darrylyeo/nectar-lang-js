@@ -1,2 +1,2 @@
 language = "deno"
-run = "npm install -g nearley; deno run --unstable --allow-read=node_modules src/index.ts;"
+run = "deno run --allow-read src/index.ts"
